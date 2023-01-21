@@ -1,0 +1,5 @@
+# Excepciones
+node_modules/
+
+# NO publicar variables sensibles
+.env
